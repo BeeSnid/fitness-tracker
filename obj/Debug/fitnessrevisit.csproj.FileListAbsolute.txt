@@ -1,0 +1,6 @@
+c:\users\brandy\documents\visual studio 2017\Projects\fitnessrevisit\bin\Debug\fitnessrevisit.exe.config
+c:\users\brandy\documents\visual studio 2017\Projects\fitnessrevisit\bin\Debug\fitnessrevisit.exe
+c:\users\brandy\documents\visual studio 2017\Projects\fitnessrevisit\bin\Debug\fitnessrevisit.pdb
+c:\users\brandy\documents\visual studio 2017\Projects\fitnessrevisit\obj\Debug\fitnessrevisit.csprojResolveAssemblyReference.cache
+c:\users\brandy\documents\visual studio 2017\Projects\fitnessrevisit\obj\Debug\fitnessrevisit.exe
+c:\users\brandy\documents\visual studio 2017\Projects\fitnessrevisit\obj\Debug\fitnessrevisit.pdb
